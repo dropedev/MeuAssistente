@@ -1,0 +1,158 @@
+[
+  {
+    "pedido_id": "12345",
+    "status": "Em trânsito",
+    "data_compra": "2024-01-15",
+    "previsao_entrega": "2024-01-20",
+    "valor_total": 2899.99,
+    "produtos": [
+      {
+        "id": "PROD001",
+        "nome": "Notebook Dell Inspiron 15 3000",
+        "quantidade": 1,
+        "preco_unitario": 2899.99
+      }
+    ],
+    "endereco_entrega": {
+      "rua": "Rua das Flores, 123",
+      "cidade": "São Paulo",
+      "cep": "01234-567",
+      "estado": "SP"
+    },
+    "codigo_rastreamento": "BR123456789"
+  },
+  {
+    "pedido_id": "12346",
+    "status": "Entregue",
+    "data_compra": "2024-01-10",
+    "data_entrega": "2024-01-14",
+    "previsao_entrega": "2024-01-15",
+    "valor_total": 1299.99,
+    "produtos": [
+      {
+        "id": "PROD002",
+        "nome": "Smartphone Samsung Galaxy A54",
+        "quantidade": 1,
+        "preco_unitario": 1299.99
+      }
+    ],
+    "endereco_entrega": {
+      "rua": "Av. Paulista, 1000",
+      "cidade": "São Paulo",
+      "cep": "01310-100",
+      "estado": "SP"
+    },
+    "codigo_rastreamento": "BR987654321"
+  },
+  {
+    "pedido_id": "12347",
+    "status": "Preparando para envio",
+    "data_compra": "2024-01-18",
+    "previsao_entrega": "2024-01-25",
+    "valor_total": 2699.98,
+    "produtos": [
+      {
+        "id": "PROD005",
+        "nome": "Tablet Samsung Galaxy Tab S9",
+        "quantidade": 1,
+        "preco_unitario": 2499.99
+      },
+      {
+        "id": "PROD013",
+        "nome": "Camiseta Adidas Originals",
+        "quantidade": 1,
+        "preco_unitario": 149.99
+      }
+    ],
+    "endereco_entrega": {
+      "rua": "Rua Augusta, 500",
+      "cidade": "São Paulo",
+      "cep": "01305-000",
+      "estado": "SP"
+    }
+  },
+  {
+    "pedido_id": "12348",
+    "status": "Cancelado",
+    "data_compra": "2024-01-12",
+    "data_cancelamento": "2024-01-13",
+    "motivo_cancelamento": "Produto fora de estoque",
+    "valor_total": 4299.99,
+    "produtos": [
+      {
+        "id": "PROD008",
+        "nome": "Console PlayStation 5",
+        "quantidade": 1,
+        "preco_unitario": 4299.99
+      }
+    ],
+    "endereco_entrega": {
+      "rua": "Rua Oscar Freire, 200",
+      "cidade": "São Paulo",
+      "cep": "01426-000",
+      "estado": "SP"
+    }
+  },
+  {
+    "pedido_id": "12349",
+    "status": "Aguardando pagamento",
+    "data_compra": "2024-01-19",
+    "previsao_entrega": "2024-01-26",
+    "valor_total": 10899.98,
+    "produtos": [
+      {
+        "id": "PROD003",
+        "nome": "MacBook Air M2",
+        "quantidade": 1,
+        "preco_unitario": 8999.99
+      },
+      {
+        "id": "PROD007",
+        "nome": "Fone de Ouvido Sony WH-1000XM5",
+        "quantidade": 1,
+        "preco_unitario": 1899.99
+      }
+    ],
+    "endereco_entrega": {
+      "rua": "Rua Consolação, 800",
+      "cidade": "São Paulo",
+      "cep": "01302-000",
+      "estado": "SP"
+    },
+    "forma_pagamento": "Cartão de crédito"
+  },
+  {
+    "pedido_id": "12350",
+    "status": "Entregue",
+    "data_compra": "2024-01-05",
+    "data_entrega": "2024-01-08",
+    "previsao_entrega": "2024-01-10",
+    "valor_total": 999.98,
+    "produtos": [
+      {
+        "id": "PROD009",
+        "nome": "Cafeteira Nespresso Vertuo",
+        "quantidade": 1,
+        "preco_unitario": 899.99
+      },
+      {
+        "id": "PROD015",
+        "nome": "Livro 'Clean Code' - Robert Martin",
+        "quantidade": 1,
+        "preco_unitario": 89.99
+      }
+    ],
+    "endereco_entrega": {
+      "rua": "Rua Haddock Lobo, 300",
+      "cidade": "São Paulo",
+      "cep": "01414-000",
+      "estado": "SP"
+    },
+    "codigo_rastreamento": "BR555666777",
+    "avaliacao": {
+      "nota": 5,
+      "comentario": "Entrega rápida e produtos em perfeito estado!"
+    }
+  }
+]
+

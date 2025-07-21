@@ -1,0 +1,221 @@
+[
+  {
+    "id": "PROD001",
+    "nome": "Notebook Dell Inspiron 15 3000",
+    "categoria": "Eletrônicos",
+    "preco": 2899.99,
+    "descricao": "Notebook ideal para trabalho e estudos com processador Intel Core i5, 8GB de RAM e SSD de 256GB. Tela de 15.6 polegadas Full HD.",
+    "especificacoes": {
+      "tela": "15.6 polegadas Full HD",
+      "processador": "Intel Core i5-1135G7",
+      "memoria": "8GB DDR4",
+      "armazenamento": "SSD 256GB",
+      "sistema_operacional": "Windows 11 Home"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD002",
+    "nome": "Smartphone Samsung Galaxy A54",
+    "categoria": "Eletrônicos",
+    "preco": 1299.99,
+    "descricao": "Smartphone Android com tela Super AMOLED de 6.4 polegadas, câmera tripla de 50MP e bateria de 5000mAh.",
+    "especificacoes": {
+      "tela": "6.4 polegadas Super AMOLED",
+      "processador": "Exynos 1380",
+      "memoria": "8GB RAM",
+      "armazenamento": "256GB",
+      "camera": "50MP + 12MP + 5MP",
+      "bateria": "5000mAh"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD003",
+    "nome": "MacBook Air M2",
+    "categoria": "Eletrônicos",
+    "preco": 8999.99,
+    "descricao": "MacBook Air com chip M2 da Apple, 8GB de RAM unificada e SSD de 256GB. Design ultrafino e bateria de longa duração.",
+    "especificacoes": {
+      "tela": "13.6 polegadas Liquid Retina",
+      "processador": "Apple M2",
+      "memoria": "8GB RAM unificada",
+      "armazenamento": "SSD 256GB",
+      "sistema_operacional": "macOS"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD004",
+    "nome": "iPhone 15",
+    "categoria": "Eletrônicos",
+    "preco": 7299.99,
+    "descricao": "iPhone 15 com chip A16 Bionic, câmera principal de 48MP e conector USB-C. Disponível em várias cores.",
+    "especificacoes": {
+      "tela": "6.1 polegadas Super Retina XDR",
+      "processador": "A16 Bionic",
+      "memoria": "6GB RAM",
+      "armazenamento": "128GB",
+      "camera": "48MP + 12MP",
+      "bateria": "Até 20 horas de reprodução de vídeo"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD005",
+    "nome": "Tablet Samsung Galaxy Tab S9",
+    "categoria": "Eletrônicos",
+    "preco": 2499.99,
+    "descricao": "Tablet Android premium com tela AMOLED de 11 polegadas, S Pen incluída e processador Snapdragon 8 Gen 2.",
+    "especificacoes": {
+      "tela": "11 polegadas Dynamic AMOLED 2X",
+      "processador": "Snapdragon 8 Gen 2",
+      "memoria": "8GB RAM",
+      "armazenamento": "128GB",
+      "acessorios": "S Pen incluída"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD006",
+    "nome": "Smart TV LG 55\" 4K",
+    "categoria": "Eletrônicos",
+    "preco": 2199.99,
+    "descricao": "Smart TV LED 4K UHD de 55 polegadas com webOS, HDR10 e Dolby Vision. Ideal para entretenimento em casa.",
+    "especificacoes": {
+      "tela": "55 polegadas 4K UHD",
+      "tecnologia": "LED",
+      "sistema": "webOS",
+      "conectividade": "Wi-Fi, Bluetooth, HDMI, USB"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD007",
+    "nome": "Fone de Ouvido Sony WH-1000XM5",
+    "categoria": "Eletrônicos",
+    "preco": 1899.99,
+    "descricao": "Fone de ouvido wireless com cancelamento de ruído líder da indústria, qualidade de áudio premium e bateria de 30 horas.",
+    "especificacoes": {
+      "tipo": "Over-ear wireless",
+      "cancelamento_ruido": "Ativo",
+      "bateria": "30 horas",
+      "conectividade": "Bluetooth 5.2, NFC"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD008",
+    "nome": "Console PlayStation 5",
+    "categoria": "Eletrônicos",
+    "preco": 4299.99,
+    "descricao": "Console de videogame de nova geração com SSD ultrarrápido, ray tracing e controle DualSense com feedback háptico.",
+    "especificacoes": {
+      "processador": "AMD Zen 2",
+      "gpu": "AMD RDNA 2",
+      "memoria": "16GB GDDR6",
+      "armazenamento": "SSD 825GB",
+      "resolucao": "Até 4K"
+    },
+    "disponivel": false
+  },
+  {
+    "id": "PROD009",
+    "nome": "Cafeteira Nespresso Vertuo",
+    "categoria": "Casa",
+    "preco": 899.99,
+    "descricao": "Cafeteira automática com tecnologia Centrifusion, prepara café e espresso com cápsulas Vertuo.",
+    "especificacoes": {
+      "capacidade": "1.1L",
+      "tipos_bebida": "Café, Espresso, Gran Lungo",
+      "tecnologia": "Centrifusion",
+      "voltagem": "110V/220V"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD010",
+    "nome": "Air Fryer Philips Walita",
+    "categoria": "Casa",
+    "preco": 599.99,
+    "descricao": "Fritadeira elétrica sem óleo com capacidade para 4 porções, tecnologia Rapid Air e 7 programas pré-definidos.",
+    "especificacoes": {
+      "capacidade": "4.1L",
+      "potencia": "1500W",
+      "programas": "7 pré-definidos",
+      "tecnologia": "Rapid Air"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD011",
+    "nome": "Tênis Nike Air Max 270",
+    "categoria": "Esportes",
+    "preco": 699.99,
+    "descricao": "Tênis esportivo com amortecimento Air Max visível, design moderno e conforto para o dia todo.",
+    "especificacoes": {
+      "material": "Mesh e sintético",
+      "tecnologia": "Air Max",
+      "uso": "Casual e esportivo",
+      "cores": "Várias opções"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD012",
+    "nome": "Bicicleta Caloi Elite Carbon",
+    "categoria": "Esportes",
+    "preco": 3299.99,
+    "descricao": "Bicicleta speed com quadro de carbono, grupo Shimano 105 e rodas aerodinâmicas. Ideal para ciclismo de estrada.",
+    "especificacoes": {
+      "quadro": "Carbono",
+      "grupo": "Shimano 105",
+      "rodas": "700c aerodinâmicas",
+      "peso": "8.5kg"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD013",
+    "nome": "Camiseta Adidas Originals",
+    "categoria": "Roupas",
+    "preco": 149.99,
+    "descricao": "Camiseta casual da linha Originals com logo clássico da Adidas, 100% algodão e corte regular.",
+    "especificacoes": {
+      "material": "100% algodão",
+      "corte": "Regular",
+      "estilo": "Casual",
+      "tamanhos": "P, M, G, GG"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD014",
+    "nome": "Jaqueta Nike Sportswear",
+    "categoria": "Roupas",
+    "preco": 399.99,
+    "descricao": "Jaqueta corta-vento com capuz, tecnologia Dri-FIT e design esportivo moderno.",
+    "especificacoes": {
+      "material": "Poliéster",
+      "tecnologia": "Dri-FIT",
+      "tipo": "Corta-vento",
+      "capuz": "Sim"
+    },
+    "disponivel": true
+  },
+  {
+    "id": "PROD015",
+    "nome": "Livro 'Clean Code' - Robert Martin",
+    "categoria": "Livros",
+    "preco": 89.99,
+    "descricao": "Guia essencial para escrever código limpo e manutenível. Leitura obrigatória para desenvolvedores.",
+    "especificacoes": {
+      "autor": "Robert C. Martin",
+      "paginas": "464",
+      "idioma": "Português",
+      "editora": "Alta Books"
+    },
+    "disponivel": true
+  }
+]
+
